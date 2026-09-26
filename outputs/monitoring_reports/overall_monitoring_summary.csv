@@ -1,0 +1,12 @@
+metric,value
+Total Records,96000.0
+Unique Units,6000.0
+Unique Lots,40.0
+Unique Wafers,6000.0
+Unique Equipment,32.0
+Normal Records,43244.0
+Abnormal Records,4517.0
+Not Processed Records,48239.0
+Processed Records,47761.0
+Monitoring Completion Percent,49.75
+Abnormal Record Percent,9.46

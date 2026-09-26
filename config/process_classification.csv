@@ -1,0 +1,17 @@
+process_stage,operation_type,monitoring_category
+Wafer Inspection,ATMP,Wafer Metrology
+Wafer Sort,OSAT,Wafer Test
+Back Grinding,ATMP,Wafer Processing
+Wafer Dicing,ATMP,Wafer Processing
+Die Attach,OSAT/ATMP,Assembly
+Wire Bonding,OSAT/ATMP,Assembly
+Encapsulation / Molding,OSAT/ATMP,Packaging
+Marking,ATMP,Package Marking
+Singulation,ATMP,Package Processing
+Package Inspection,OSAT/ATMP,Package Inspection
+Burn-in,OSAT,Testing
+ICT,OSAT,Electrical Testing
+FCT,OSAT,Functional Testing
+EOL,OSAT,Final Testing
+Final Inspection,ATMP,Final Inspection
+Packing / Dispatch,ATMP,Packaging

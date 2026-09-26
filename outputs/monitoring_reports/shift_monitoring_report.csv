@@ -1,0 +1,4 @@
+shift,total_records,normal_records,abnormal_records,not_processed_records,processed_records,abnormal_percent
+A,32736,14458,1552,16726,16010,9.69
+B,30752,14096,1435,15221,15531,9.24
+C,32512,14690,1530,16292,16220,9.43

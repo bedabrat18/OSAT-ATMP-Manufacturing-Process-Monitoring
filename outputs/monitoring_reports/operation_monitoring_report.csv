@@ -1,0 +1,4 @@
+operation_type,total_records,normal_records,abnormal_records,not_processed_records,processed_records,abnormal_percent
+ATMP,42000,20159,2494,19347,22653,11.01
+OSAT,30000,11766,760,17474,12526,6.07
+OSAT/ATMP,24000,11319,1263,11418,12582,10.04

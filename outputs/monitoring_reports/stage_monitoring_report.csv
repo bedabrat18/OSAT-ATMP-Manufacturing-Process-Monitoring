@@ -1,0 +1,17 @@
+stage_number,process_stage,operation_type,total_records,normal_records,abnormal_records,not_processed_records,processed_records,monitoring_completion_percent,abnormal_record_percent
+1,Wafer Inspection,ATMP,6000,4592,1408,0,6000,100.0,23.47
+2,Wafer Sort,OSAT,6000,4351,241,1408,4592,76.53,5.25
+3,Back Grinding,ATMP,6000,3946,405,1649,4351,72.52,9.31
+4,Wafer Dicing,ATMP,6000,3768,178,2054,3946,65.77,4.51
+5,Die Attach,OSAT/ATMP,6000,3405,363,2232,3768,62.8,9.63
+6,Wire Bonding,OSAT/ATMP,6000,3067,338,2595,3405,56.75,9.93
+7,Encapsulation / Molding,OSAT/ATMP,6000,2621,446,2933,3067,51.12,14.54
+8,Marking,ATMP,6000,2477,144,3379,2621,43.68,5.49
+9,Singulation,ATMP,6000,2342,135,3523,2477,41.28,5.45
+10,Package Inspection,OSAT/ATMP,6000,2226,116,3658,2342,39.03,4.95
+11,Burn-in,OSAT,6000,2001,225,3774,2226,37.1,10.11
+12,ICT,OSAT,6000,1898,103,3999,2001,33.35,5.15
+13,FCT,OSAT,6000,1809,89,4102,1898,31.63,4.69
+14,EOL,OSAT,6000,1707,102,4191,1809,30.15,5.64
+15,Final Inspection,ATMP,6000,1551,156,4293,1707,28.45,9.14
+16,Packing / Dispatch,ATMP,6000,1483,68,4449,1551,25.85,4.38

@@ -1,0 +1,28 @@
+process_stage,parameter,lower_limit,upper_limit,unit
+Wafer Inspection,wafer_thickness_um,700,800,um
+Wafer Inspection,ttv_um,0,5,um
+Wafer Inspection,bow_um,0,50,um
+Wafer Inspection,warp_um,0,50,um
+Wafer Inspection,tape_thickness_um,80,120,um
+Wafer Sort,sort_current_a,9.5,10.5,A
+Back Grinding,wafer_thickness_um,700,800,um
+Back Grinding,thickness_variation_um,0,5,um
+Wafer Dicing,kerf_width_um,45,55,um
+Die Attach,attach_force_n,8,12,N
+Die Attach,attach_offset_um,0,50,um
+Wire Bonding,wire_bond_force_n,60,70,N
+Wire Bonding,bond_pull_strength_gf,5,10,gf
+Encapsulation / Molding,mold_temperature_c,170,190,C
+Encapsulation / Molding,mold_cure_time_s,100,140,s
+Encapsulation / Molding,void_percentage,0,5,%
+Marking,marking_quality_score,90,100,score
+Singulation,singulation_damage_score,0,10,score
+Package Inspection,package_dimension_mm,9.8,10.2,mm
+Burn-in,burn_in_temperature_c,120,130,C
+Burn-in,burn_in_hours,4,8,h
+ICT,ict_current_a,9.5,10.5,A
+FCT,fct_voltage_v,3.1,3.5,V
+EOL,eol_temperature_c,80,100,C
+Final Inspection,marking_quality_score,90,100,score
+Final Inspection,package_dimension_mm,9.8,10.2,mm
+Packing / Dispatch,packaging_damage_score,0,10,score
