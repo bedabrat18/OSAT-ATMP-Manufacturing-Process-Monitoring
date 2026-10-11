@@ -1,0 +1,10 @@
+packaging_route,monitoring_status,records
+Flip Chip,ABNORMAL,100
+Flip Chip,NORMAL,1655
+Flip Chip,NOT_PROCESSED,245
+Integrated Systems Packaging (ISP),ABNORMAL,91
+Integrated Systems Packaging (ISP),NORMAL,1653
+Integrated Systems Packaging (ISP),NOT_PROCESSED,256
+Wire Bond,ABNORMAL,103
+Wire Bond,NORMAL,1664
+Wire Bond,NOT_PROCESSED,233
